@@ -1,0 +1,11 @@
+[run]
+branch = True
+omit =
+    */__about__.py
+
+[report]
+exclude_lines =
+    main()
+    \.\.\.
+    pass
+
